@@ -1,0 +1,63 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: pkgs.wiretrustee.com
+Label: pkgs.wiretrustee.com
+Codename: linux
+Date: Thu, 26 Aug 2021 16:41:36 UTC
+Architectures: amd64 i386 arm64 armhf
+Components: main
+Description: Wiretrustee Debian Repo
+MD5Sum:
+ 0d2363fc98bbc71150d54f8199e0ed07 470 main/binary-amd64/Packages
+ 9d70f8b4dc5d73363d432c34a0abc71c 325 main/binary-amd64/Packages.gz
+ 52830771cb20ebe25e85569978375c93 130 main/binary-amd64/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/binary-i386/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/binary-i386/Packages.gz
+ 71e3cd4a2b5e0d03530f7e7573d8e037 129 main/binary-i386/Release
+ 759b5b448fab5610de5b8597b1d52e76 470 main/binary-arm64/Packages
+ 0a140dfba1f49144c6ed0e3e945547d5 327 main/binary-arm64/Packages.gz
+ 0e3989633241688767b8ec5776fd2870 130 main/binary-arm64/Release
+ bad445c06dee585492e9067d60b4980d 470 main/binary-armhf/Packages
+ e040a2808cf75b75e494a131573aa603 329 main/binary-armhf/Packages.gz
+ 82ac1b9a35f21f3b5ec972c798c09530 130 main/binary-armhf/Release
+SHA1:
+ b78209cbd047421e32524db34689a47002bc619c 470 main/binary-amd64/Packages
+ 6d30088e181f5d9dfad5cca24092bb9fcab7b522 325 main/binary-amd64/Packages.gz
+ bd9f313a61f5743342034d5695417004a7c7801d 130 main/binary-amd64/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/binary-i386/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/binary-i386/Packages.gz
+ 45aaf46600ebadbeedaa0b4147d928ba5f795786 129 main/binary-i386/Release
+ fafa888da4d3e842a2a5f18ccc5b4c95979751b3 470 main/binary-arm64/Packages
+ 16546f36b82f9488cc851448df16ffc90ab481a4 327 main/binary-arm64/Packages.gz
+ 6eac01186fef2e64984bdb7316346c2a63319ba9 130 main/binary-arm64/Release
+ c3e9e45a0fe72e812fcaf02e9809a617829c03e7 470 main/binary-armhf/Packages
+ 0196534729cb203e99523f7e223ccd5d882f2099 329 main/binary-armhf/Packages.gz
+ f2d234af423a80b219a804240c61ae7f05d16461 130 main/binary-armhf/Release
+SHA256:
+ c876f8a0de013377a9c5853cb1a0ab2200fc4f9372fc9a53523fbd8fc8cd3362 470 main/binary-amd64/Packages
+ 5c78d7ba1ef20ea11e7f07947f3d530a8c770e87590ff18a777e7feda22c855d 325 main/binary-amd64/Packages.gz
+ 91c41b24d7edae03640214dbb883d63da5d991579b3f2009325e17f5de91a088 130 main/binary-amd64/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/binary-i386/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/binary-i386/Packages.gz
+ e732c7c0805cb0627d5993732acf94fab4b1a754b55ec68c708fb32c7d473a23 129 main/binary-i386/Release
+ 1fd84c85a2c7333db0cef714e6b6c0ad6c7c4a88f115b07a8bd86278ab6fbcc3 470 main/binary-arm64/Packages
+ 9eb2cc08fab2a31793e53dd5cb581b02fe073d9d58651d8783a37f884ac2f609 327 main/binary-arm64/Packages.gz
+ a72d227f84c73d8d492ec6614fc24d438cd698786c4ea29ced7b8007f5b4dc4d 130 main/binary-arm64/Release
+ 6e846b1eec2cc3372f0f79e597d40b95cf0b82b800a47b670aacc168c223ecfb 470 main/binary-armhf/Packages
+ ea941522870d549fde2e8efd87d86647099796c6d27e3f5ffbf907c266c6e87d 329 main/binary-armhf/Packages.gz
+ 4a407d634564f4ba57073fa4806f725a9352f9536f03323398d3ff248620b6b0 130 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEEGaJumR2nkGuf81yRfkeOZ6ReRX8FAmEnxEAACgkQfkeOZ6Re
+RX/Miwv/Y+umdipFzNdoVn/V5VKgJg5NL2wa+vBVpsWtboOrpNJ0RKTj+bJhyAvW
+LJv0Th4rffGgtYd7iADmwRLm2z+nAySlMvYvT64a6sQiUHYh69lkGxwazWY7u2qf
+mUEMmDMIykJq3Sb2XWyNQjqCF6KD7cmWYAcPlPktcgk4q9i2IEtmMo2zMLQoT6n2
+6L5vz5pu1Vd56Ig5vx6hZbF+oByNcZL4jI+Ll4LK5g92cC3ziCAru8gnuDgUTEjK
+rgU2PQwjaDvf79ekxd9wxAImLGVaePg5yATHLrIsXFD50K66sCwjTRl2/5IC0n/a
+uwcLNucTRj+Fo//55c0Wlv8EZrdw0SPRQ121Tv9RNhzQt2K+bsZtP4ldeH+5S9eH
+YlUHCBIcdAR9TfC+/87vhN6dLvJIh/fR27MiSYpERqpRw1LxQI4GRqC5mGmtgqCu
+bl5AlRiFRZDYMTCLpsdlxvAuJajw35NpidcncL4fyNqJbk/zVJRevg9Mx8sMlWcB
+OQxg59r1
+=Ay3B
+-----END PGP SIGNATURE-----

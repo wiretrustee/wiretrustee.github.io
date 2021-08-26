@@ -1,0 +1,5 @@
+Component: main
+Origin: pkgs.wiretrustee.com
+Label: pkgs.wiretrustee.com
+Architecture: armhf
+Description: Wiretrustee Debian Repo

@@ -1,0 +1,7 @@
+Origin: pkgs.wiretrustee.com
+Label: pkgs.wiretrustee.com
+Codename: linux
+Architectures: amd64 i386 arm64 armhf
+Components: main
+Description: Wiretrustee Debian Repo
+SignWith: 19A26E991DA7906B9FF35C917E478E67A45E457F

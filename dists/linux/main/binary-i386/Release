@@ -1,0 +1,5 @@
+Component: main
+Origin: pkgs.wiretrustee.com
+Label: pkgs.wiretrustee.com
+Architecture: i386
+Description: Wiretrustee Debian Repo
