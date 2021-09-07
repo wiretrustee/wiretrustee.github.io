@@ -1,15 +1,15 @@
 Package: wiretrustee
-Version: 0.1.0~rc-1
+Version: 0.1.0~rc.2
 Architecture: arm64
 Maintainer: Wiretrustee <wiretrustee@wiretrustee.com>
-Installed-Size: 11712
+Installed-Size: 11840
 Homepage: https://wiretrustee.com/
 Priority: 
 Section: 
-Filename: pool/main/w/wiretrustee/wiretrustee_0.1.0~rc-1_arm64.deb
-Size: 4260834
-SHA256: 275c951942d27a285ee82722006093e0f0c138c66a7740df73bc11a8732dafe6
-SHA1: a63260a2c0305a3dd8dc7fde22e5e2e6484df127
-MD5sum: 3cb80872f5993447372c967a1f96ea09
+Filename: pool/main/w/wiretrustee/wiretrustee_0.1.0~rc.2_arm64.deb
+Size: 4298430
+SHA256: 0c2bf7262e14f52383f4449f909e28419b95f7c8d0cc6aa0d7cdb83f66ff3063
+SHA1: d2666960c55eddf888c4d520205fed95a44b5ce7
+MD5sum: 9a64ee69ec708aba8938e49e3a4702d3
 Description: Wiretrustee project.
 
