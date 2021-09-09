@@ -1,15 +1,15 @@
 Package: wiretrustee
-Version: 0.1.0~beta.1
+Version: 0.1.0~beta.2
 Architecture: armhf
 Maintainer: Wiretrustee <wiretrustee@wiretrustee.com>
 Installed-Size: 10624
 Homepage: https://wiretrustee.com/
 Priority: 
 Section: 
-Filename: pool/main/w/wiretrustee/wiretrustee_0.1.0~beta.1_armhf.deb
-Size: 4403384
-SHA256: 565084717ef9a720a07e436d5bf118ce22ad9f1ab9efd07599ccd318f19355b9
-SHA1: a48150876b31b99009ab25065340cde2dfce86e3
-MD5sum: 1876bb2a6ea1cf7b599172d14f150801
+Filename: pool/main/w/wiretrustee/wiretrustee_0.1.0~beta.2_armhf.deb
+Size: 4403362
+SHA256: e7035892469d13c76402fb55004b590371876590ddcc1ab0d5910cf28086d727
+SHA1: 036f590af3b2da26a168a7cbc618fa2e4541767b
+MD5sum: b5f2ac434a51aadfbfb42e6d10badd67
 Description: Wiretrustee project.
 
