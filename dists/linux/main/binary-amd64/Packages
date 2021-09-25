@@ -1,15 +1,15 @@
 Package: wiretrustee
-Version: 0.1.0~beta.2
+Version: 0.1.0~beta.3
 Architecture: amd64
 Maintainer: Wiretrustee <wiretrustee@wiretrustee.com>
 Installed-Size: 12684
 Homepage: https://wiretrustee.com/
 Priority: 
 Section: 
-Filename: pool/main/w/wiretrustee/wiretrustee_0.1.0~beta.2_amd64.deb
-Size: 4736078
-SHA256: a3eb3aea8a99a79be1e337d878b9324fb574f040765938ac6697cee6a01adc38
-SHA1: d03707550dc63abc52eba2923bd5d100c53cd155
-MD5sum: 8bddb80d83d67fcce2a2d222c845e97f
+Filename: pool/main/w/wiretrustee/wiretrustee_0.1.0~beta.3_amd64.deb
+Size: 4736264
+SHA256: bbe50db75e8ccdb66a63f76c1589a238b65f1df4a40eddef564a54fe1369de47
+SHA1: b03837be9bcf5aa595ca0f94b66761064c1d5a02
+MD5sum: c972048e14eecf010e047e7a61124fdf
 Description: Wiretrustee project.
 
